@@ -46,7 +46,7 @@ Script can rewrite files on server without errors.
 
 ## Built With
 
-* [Python](https://www.python.org/) - Language used
+* [Python](https://www.python.org/)
 
 ## Authors
 
