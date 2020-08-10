@@ -6,7 +6,7 @@ Used this script to upload website by just dropping files into directory.
 
 ## Getting Started
 
-Clone this repository
+Clone this repository:
 
 ```
 git clone https://github.com/nenadfilipovic/python-ftp-uploader
@@ -54,7 +54,7 @@ Script can rewrite files on server without errors.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
